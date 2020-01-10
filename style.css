@@ -37,6 +37,7 @@ img {
 	height: 300px;
 	margin: 10px;
 	transition: all 1s;
+	border-rudios:5px;
 }
 
 img:hover {
